@@ -1,1 +1,1 @@
-# ineurona-assignment-1
+# ineuron-assignment-1
